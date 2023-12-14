@@ -14,6 +14,7 @@
 ### Skills, knowledge
 
 Frontend: JavaScript, HTML, CSS
+
 Backend: Node.js, Golang, Docker, SQL, SQLite, Python
 
 ### Projects I am currently working on:
