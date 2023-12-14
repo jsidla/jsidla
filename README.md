@@ -1,6 +1,7 @@
 ### Hi there, I'm Johanna 👋
 
 💪 I'm an software development student striving to work in the IT field soon.
+
 🌱 I’m currently learning JavaScript for web development and Python for machine learning purposes.
 
 ### About me
