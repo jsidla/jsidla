@@ -14,12 +14,12 @@
 
 ### Skills, knowledge
 
-Frontend: JavaScript, HTML, CSS
+Frontend: JavaScript, HTML, CSS, React JS
 
-Backend: Node.js, Golang, Docker, SQL, SQLite, Python
+Backend: Node.js, Golang, Docker, SQL, SQLite, Python, Next.js framework
 
 ### Projects I am currently working on:
-  - 💬 Real time forum with live messaging written in JavaScript and Go
+  - 💬 A social network (essentially a clone of Facebook) written in JavaScript and Go, using the Next.js framework
   - 🤖 A program which distinguishes specific edible mushrooms (Boletus edulis) from others based on image data
 
 ### 📫 How to reach me
