@@ -14,9 +14,9 @@
 
 ### Skills, knowledge
 
-Frontend: JavaScript, HTML, CSS, React JS
+Frontend: JavaScript, HTML, CSS, React JS, Next.js framework
 
-Backend: Node.js, Golang, Docker, SQL, SQLite, Python, Next.js framework
+Backend: Node.js, Golang, Docker, SQL, SQLite, Python
 
 ### Projects I am currently working on:
   - 💬 A social network (essentially a clone of Facebook) written in JavaScript and Go, using the Next.js framework
